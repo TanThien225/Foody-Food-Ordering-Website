@@ -19,8 +19,5 @@ Welcome to Foody, your one-stop solution for easy and efficient food ordering an
 
 
 
-## Contact
 
-Have questions or suggestions? Reach out to us at [info@yumhub.com](mailto:info@yumhub.com).
 
-Savor the simplicity with YumHub!
